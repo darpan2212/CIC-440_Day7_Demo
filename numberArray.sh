@@ -21,5 +21,3 @@ do
 done
 
 echo ${arr[@]};
-
-
